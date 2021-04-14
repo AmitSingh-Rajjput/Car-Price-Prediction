@@ -63,6 +63,13 @@ We take all the input varible by using Form. Then Predict the Car price.
 
 After compilation you can see this type of interface. Where you can fill the form and get your desired result.
 
+![Inputcar](https://user-images.githubusercontent.com/66250589/114733754-429e6f00-9d61-11eb-9cfb-3b7c7b4fd2d1.PNG)
+
+
+
+
+![carprediction output](https://user-images.githubusercontent.com/66250589/114733814-4a5e1380-9d61-11eb-9a22-25026488f1ff.PNG)
+
 
 
 ### Deployment
