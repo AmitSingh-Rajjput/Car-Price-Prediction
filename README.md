@@ -88,7 +88,5 @@ We will be deploying the model to the Heroku Cloud platform.
 
 5: Easy integration with other AWS products.
 
-### Output:
-\
-After compilation you can see this type of interface. Where you can give Custom files path for prediction or Default File prediction.
+
 
